@@ -28,8 +28,8 @@ logger = logging.getLogger(__name__)
 # ==================== 配置区域 ====================
 
 # API密钥配置
-DEEPSEEK_API_KEY =  # DeepSeek API密钥
-SERPER_API_KEY =      # Serper API密钥
+DEEPSEEK_API_KEY = "" # DeepSeek API密钥
+SERPER_API_KEY =   ""   # Serper API密钥
 
 # DeepSeek API配置
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
